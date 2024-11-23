@@ -3,7 +3,7 @@
 ![Data Science GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd5bTV2NDFpMThzYWtmcW41aXR6bWoybDE0cHB0cWFiMGU1Ymh0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ygfw40tlnPhX87m/giphy.gif)  
 
 
-*(Transform data into meaningful insights and solutions!)*
+*Transform data into meaningful insights and solutions!*
 
 ---
 
